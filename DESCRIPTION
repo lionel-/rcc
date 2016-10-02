@@ -1,0 +1,11 @@
+Package: rcc
+Title: Lightweight C++ API for R
+Version: 0.0.0.9000
+Authors@R: person("Lionel", "Henry", email = "lionel.hry@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends:
+    R (>= 3.3.1)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
